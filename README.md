@@ -1,6 +1,7 @@
 # Landing-page
 # Leaf & Bloom - Skincare Product Landing Page
 
+[**Visit the live site here!**](https://leafandbloom.netlify.app/)
 Welcome to the **Leaf & Bloom** Skincare Product Landing Page! This project showcases a beautifully designed landing page for a fictional skincare brand, "Leaf & Bloom." 
 
 ## About the Website
